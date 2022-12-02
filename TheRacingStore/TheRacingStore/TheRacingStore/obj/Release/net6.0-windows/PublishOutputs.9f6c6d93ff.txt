@@ -1,0 +1,33 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\TheRacingStore.exe
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\appsettings.Development.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\appsettings.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\TheRacingStore.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\TheRacingStore.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\TheRacingStore.runtimeconfig.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\TheRacingStore.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\AutoMapper.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\BouncyCastle.Crypto.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Google.Protobuf.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\K4os.Compression.LZ4.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\K4os.Hash.xxHash.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\MySql.Data.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Ubiety.Dns.Core.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\ZstdNet.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\System.Security.Permissions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\PubTmp\Out\Data Layer.pdb

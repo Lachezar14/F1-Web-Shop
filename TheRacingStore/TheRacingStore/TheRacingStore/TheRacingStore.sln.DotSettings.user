@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04c45f6a_002D5b04_002D43da_002Dbe07_002D9001b9277778/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UpdateUserTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd69a44c_002Dd495_002D4f32_002Dbdea_002D28817250513f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetUserTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.UserManagerTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting.GetAllProductsTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting.GetProductTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting.AddClothingTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting.AddPosterTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting.UpdateProductTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.ProductManagerTesting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting.GetOrderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting.GetAllOrdersTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting.AddOrderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting.OrderShippedTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::34A38AF4-39A7-4D42-8EF8-6D84F86F0DA1::net6.0-windows7.0::UnitTests.TestEnvironment.OrderManagerTesting&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

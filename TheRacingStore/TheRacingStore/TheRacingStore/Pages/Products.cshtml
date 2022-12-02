@@ -1,0 +1,164 @@
+﻿@page
+@using Models;
+@using Logic_Layer.Managers;
+@model TheRacingStore.Pages.ProductsModel
+@{
+    ViewData["Title"] = "Products page";
+}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>
+      The Racing Store
+   </title>
+   <link rel="stylesheet" href="~/css/site.css">
+   <link href="https://fonts.googleapis.com/css2?
+   family=Poppins:wght@300;400;500;600; 700&display=swap"
+   rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-
+   awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+  <body>
+
+    <div class="header2">
+   <div class="container">
+    <div class="navbar">
+        <div class="logo">
+            <a href="Index"><img src="images/f1-store-logo.png" width="200"></a>
+        </div>
+       <nav> 
+            @if(Model.User != null)
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="Account">Account</a></li>
+              </ul>         
+            }
+            else
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="LogIn">Log In</a></li>
+             </ul>
+            }
+            
+        </nav>
+    </div>
+   </div>
+    </div>
+    <div class="small-container">
+      <h2 class="title">Products</h2>
+      <div class="row">
+          <div class="col-4">
+              @{
+                    ProductManager pm1 = new ProductManager(@Model._productDB);
+                    List<Product> products1 = pm1.GetAllProducts();
+                    Product product1 = products1[0];
+                    <img src="images/Ferrari-t-shirt.png">
+                    <h4>@product1.Description</h4>
+                    <h4>$@product1.Price.ToString("0.00")</h4>
+                    <a href="Order?Id=@product1.Id" class="btn2">Buy</a>
+                }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm2 = new ProductManager(@Model._productDB);
+                  List<Product> products2 = pm2.GetAllProducts();
+                  Product product2 = products2[1];
+                  <img src="images/redbull-T-shirt.png">
+                  <h4>@product2.Description</h4>
+                  <h4>$@product2.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product2.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm3 = new ProductManager(@Model._productDB);
+                  List<Product> products3 = pm3.GetAllProducts();
+                  Product product3 = products3[2];
+                  <img src="images/alpine.png">
+                  <h4>@product3.Description</h4>
+                  <h4>$@product3.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product3.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm4 = new ProductManager(@Model._productDB);
+                  List<Product> products4 = pm4.GetAllProducts();
+                  Product product4 = products4[3];
+                  <img src="images/mercedes-removebg-preview.png">
+                  <h4>@product4.Description</h4>
+                  <h4>$@product4.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product4.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm5 = new ProductManager(@Model._productDB);
+                  List<Product> products5 = pm5.GetAllProducts();
+                  Product product5 = products5[4];
+                  <img src="images/mclaren.png">
+                  <h4>@product5.Description</h4>
+                  <h4>$@product5.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product5.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm6 = new ProductManager(@Model._productDB);
+                  List<Product> products6 = pm6.GetAllProducts();
+                  Product product6 = products6[5];
+                  <img src="images/ferrari.png">
+                  <h4>@product6.Description</h4>
+                  <h4>$@product6.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product6.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm7 = new ProductManager(@Model._productDB);
+                  List<Product> products7 = pm7.GetAllProducts();
+                  Product product7 = products7[6];
+                  <img src="images/mp44Poster.jpeg">
+                  <h4>@product7.Description</h4>
+                  <h4>$@product7.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product7.Id" class="btn2">Buy</a>
+              }
+          </div>
+          <div class="col-4">
+              @{
+                  ProductManager pm8 = new ProductManager(@Model._productDB);
+                  List<Product> products8 = pm8.GetAllProducts();
+                  Product product8 = products8[7];
+                  <img src="images/schumacherPoster.png">
+                  <h4>@product8.Description</h4>
+                  <h4>$@product8.Price.ToString("0.00")</h4>
+                  <a href="Order?Id=@product8.Id" class="btn2">Buy</a>
+              }
+        </div>
+      </div>
+  </div>
+  <footer class="footer">
+   <div><h1 class="SM">Links to our social media accounts!</h1></div>
+   <nav class="socialMedia">
+       <ul>
+           <li><a href="https://www.facebook.com/lachko.mitov" class="fa fa-facebook"></a></li>
+           <li><h1 class="betweenSM">|</h1></li>
+           <li><a href="https://twitter.com/Luc68358959" class="fa fa-twitter"></a></li>
+           <li><h1 class="betweenSM">|</h1></li>
+           <li><a href="https://www.instagram.com/luchounited/" class="fa fa-instagram"></a></li>
+           <li><h1 class="betweenSM">|</h1></li>
+           <li><a href="https://www.linkedin.com/in/lachezar-mitov-922b49230/" class="fa fa-linkedin"></a></li>
+       </ul>
+   </nav>
+</footer>
+  </body>
+</html>
+

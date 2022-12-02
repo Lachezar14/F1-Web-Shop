@@ -1,0 +1,106 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\appsettings.Development.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\appsettings.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.staticwebassets.runtime.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.exe
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.runtimeconfig.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\ref\TheRacingStore.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\AutoMapper.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\ZstdNet.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Security.Permissions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.RazorAssemblyInfo.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.RazorAssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\staticwebassets.build.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\staticwebassets.development.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\bundle\TheRacingStore.styles.css
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\projectbundle\TheRacingStore.bundle.scp.css
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\ref\TheRacingStore.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.genruntimeconfig.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\appsettings.Development.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\appsettings.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.staticwebassets.runtime.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.exe
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.deps.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.runtimeconfig.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\TheRacingStore.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\AutoMapper.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\ZstdNet.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\bin\Release\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.RazorAssemblyInfo.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.RazorAssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\staticwebassets.build.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\staticwebassets.development.json
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\bundle\TheRacingStore.styles.css
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\scopedcss\projectbundle\TheRacingStore.bundle.scp.css
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.csproj.CopyComplete
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\refint\TheRacingStore.dll
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\TheRacingStore.genruntimeconfig.cache
+C:\Users\ISSD\Desktop\TheRacingStore\TheRacingStore\obj\Release\net6.0-windows\ref\TheRacingStore.dll

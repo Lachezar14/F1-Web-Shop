@@ -1,0 +1,76 @@
+﻿@page
+@model TheRacingStore.Pages.LogInModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>
+      The Racing Store
+   </title>
+   <link rel="stylesheet" href="~/css/site.css">
+   <link href="https://fonts.googleapis.com/css2?
+   family=Poppins:wght@300;400;500;600; 700&display=swap"
+   rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-
+   awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+  <body style ="background-color: #fff0f0;">
+
+    <div class="header2">
+   <div class="container">
+    <div class="navbar">
+        <div class="logo">
+             <a href="Index"><img src="images/f1-store-logo.png" width="200"></a>
+        </div>
+        <nav>
+           <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="LogIn">Account</a></li>
+           </ul>
+        </nav>
+    </div>
+   </div>
+    </div>
+    <h2 class="title">Account</h2>
+    <div class="col-2">
+        <div class="form-container">
+            <div class="login">
+                <h2>Login</h2>
+            </div>
+            <form method="post">
+
+            <label> Username:</label> <span asp-validation-for="Username"></span>
+            <input asp-for="Username" id="username">
+
+            <label> Password:</label> <span asp-validation-for="Password"></span>
+            <input class="inpFl" asp-for="Password" type="password" id="password">
+
+            <button class="btn5" type="submit" >Login</button>
+         </form>
+        </div>    
+    </div>
+    <div>
+        <nav class="white">
+        </nav>
+    </div>
+    <footer class="footer">
+        <div><h1 class="SM">Links to our social media accounts!</h1></div>
+        <nav class="socialMedia">
+            <ul>
+                <li><a href="https://www.facebook.com/lachko.mitov" class="fa fa-facebook"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://twitter.com/Luc68358959" class="fa fa-twitter"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.instagram.com/luchounited/" class="fa fa-instagram"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.linkedin.com/in/lachezar-mitov-922b49230/" class="fa fa-linkedin"></a></li>
+            </ul>
+        </nav>
+     </footer>
+    </body>
+    </html>

@@ -1,0 +1,85 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.deps.json
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CopyComplete
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\refint\Logic Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.deps.json
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.deps.json
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CopyComplete
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\refint\Logic Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\ref\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.deps.json
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\refint\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Logic Layer\obj\Debug\net6.0-windows\ref\Logic Layer.dll

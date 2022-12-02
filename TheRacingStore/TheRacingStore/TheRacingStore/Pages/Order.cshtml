@@ -1,0 +1,101 @@
+﻿@page
+@model TheRacingStore.Pages.OrderModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>
+      The Racing Store
+   </title>
+   
+   <link rel="stylesheet" href="~/css/site.css">
+   <link href="https://fonts.googleapis.com/css2?
+   family=Poppins:wght@300;400;500;600; 700&display=swap"
+   rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-
+   awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+  <body>
+    <div class="header2">
+   <div class="container">
+    <div class="navbar">
+        <div class="logo">
+            <a href="Index"><img src="images/f1-store-logo.png" width="200"></a>
+        </div>
+    </div>
+   </div>
+    </div>
+    <h1 class="orderTitle">Order Page</h1>
+    <div class="row">
+        <div class="col-75">
+            <div asp-validation-summary="All"></div>
+            <div class="container2">
+                <form asp-page-handler="DDD" method="post">
+                    <div class="row">
+                        <div class="col-50">
+
+                            <label> First Name:</label> <span asp-validation-for="User.FName"></span>
+                            <input asp-for="User.FName" class="inpFl" id="fName">
+
+                            <label> Last Name:</label> <span asp-validation-for="User.LName"></span>
+                            <input asp-for="User.LName" class="inpFl" id="lName">
+
+                            <label> Email:</label> <span asp-validation-for="User.Email"></span>
+                            <input asp-for="User.Email"  class="inpFl" id="email">
+
+                            <label> Phone Number:</label> <span asp-validation-for="User.Phone"></span>
+                            <input asp-for="User.Phone"  class="inpFl" id="phone">
+
+                            <label> Address:</label> <span asp-validation-for="User.Address"></span>
+                            <input asp-for="User.Address"  class="inpFl" id="address">
+
+                            <label> City:</label> <span asp-validation-for="User.City"></span>
+                            <input asp-for="User.City" class="inpFl" id="city">
+
+                            <label> Postcode:</label> <span asp-validation-for="User.Postcode"></span>
+                            <input asp-for="User.Postcode"  class="inpFl" id="postcode">
+
+                            <label> Username:</label> <span asp-validation-for="User.Username"></span>
+                            <input asp-for="User.Username"  class="inpFl" id="username">
+
+                            <label> Password:</label> <span asp-validation-for="User.Password"></span>
+                            <input asp-for="User.Password"  class="inpFl" id="password">
+                            <input name="ProductID" type="hidden" value="@Model.Id">
+                        </div>
+                    </div>
+                    <div class="container3">
+                        <h2>@Model.Product.Description</h2>
+                        <h2>Your order total with discount:</h2>
+                        <h3>$@Model.Product.Price</h3>
+                        <div class="btn3">
+                            <button asp-page-handler="Order" class="button" type="submit">Order</button>
+                            <a href="Products" class="button">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div><h1 class="SM">Links to our social media accounts!</h1></div>
+        <nav class="socialMedia">
+            <ul>
+                <li><a href="https://www.facebook.com/lachko.mitov" class="fa fa-facebook"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://twitter.com/Luc68358959" class="fa fa-twitter"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.instagram.com/luchounited/" class="fa fa-instagram"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.linkedin.com/in/lachezar-mitov-922b49230/" class="fa fa-linkedin"></a></li>
+            </ul>
+        </nav>
+     </footer>
+    </body>
+    </html>
+   @section scripts{
+   <partial name="_ValidationScriptsPartial" />
+   }

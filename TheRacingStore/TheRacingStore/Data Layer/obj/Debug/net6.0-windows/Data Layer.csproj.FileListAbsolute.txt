@@ -1,0 +1,75 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.deps.json
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CopyComplete
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\refint\Data Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.deps.json
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.deps.json
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CopyComplete
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\refint\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\ref\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.deps.json
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\refint\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Assignment 1\lachezar-mitov-individual-project-1\TheRacingStore\TheRacingStore\Data Layer\obj\Debug\net6.0-windows\ref\Data Layer.dll

@@ -1,0 +1,119 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>
+      The Racing Store
+   </title>
+   <link rel="stylesheet" href="~/css/site.css">
+   <link href="https://fonts.googleapis.com/css2?
+   family=Poppins:wght@300;400;500;600; 700&display=swap"
+   rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-
+   awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+  <body>
+
+    <div class="header">
+   <div class="container">
+    <div class="navbar">
+        <div class="logo">
+           <a href="Index"><img src="images/f1-store-logo.png" width="200"></a>
+        </div>
+        <nav>  
+          @if(Model.User != null)
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="Account">Account</a></li>
+              </ul>         
+            }
+            else
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="LogIn">Log In</a></li>
+             </ul>
+            }
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-2">
+            <h1>All F1 Merchandise <br>at one place!<br></h1>
+            <p>Just a click of a button away!</p>
+            <a href="Products" class="btn">Shop Now &#8594</a>
+        </div>
+        <div class="col-2">
+            <img src="images/f1logos-removebg-preview.png">
+        </div>
+    </div>
+   </div> 
+</div>
+<nav class="rectangle">
+    <h1>NEW SEASON MERCHANDISE IS OUT!</h1>
+</nav>
+                       <!-----featured categories----->
+    <div class="categories">
+        <div class="small-container">
+            <div class="row">
+                <div class="col-3">
+                    <img src ="images/Screenshot 2022-02-11 203844.png">
+                </div>
+            </div>
+        </div> 
+    </div>
+                       <!-----featured products----->
+    <div class="small-container">
+        <h2 class="title">Featured Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <a href="Products"><img src="images/Ferrari-t-shirt.png"></a>
+                <h4>Ferrari T-Shirt</h4>
+                <p>$60.00</p>
+            </div>
+            <div class="col-4">
+                <a href="Products"><img src="images/redbull-T-shirt.png"></a>
+                <h4>RedBull T-Shirt</h4>
+                <p>$45.00</p>
+            </div>
+            <div class="col-4">
+                <a href="Products"><img src="images\alpine.png"></a>
+                <h4>Alpine T-Shirt</h4>
+                <p>$55.00</p>
+            </div>
+            <div class="col-4">
+                <a href="Products"><img src="images\mercedes-removebg-preview.png"></a>
+                <h4>Mercedes T-shirt</h4>
+                <p>$65.00</p>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div><h1 class="SM">Links to our social media accounts!</h1></div>
+        <nav class="socialMedia">
+            <ul>
+                <li><a href="https://www.facebook.com/lachko.mitov" class="fa fa-facebook"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://twitter.com/Luc68358959" class="fa fa-twitter"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.instagram.com/luchounited/" class="fa fa-instagram"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.linkedin.com/in/lachezar-mitov-922b49230/" class="fa fa-linkedin"></a></li>
+            </ul>
+        </nav>
+    </footer>
+  </body>
+</html>
+
+
+

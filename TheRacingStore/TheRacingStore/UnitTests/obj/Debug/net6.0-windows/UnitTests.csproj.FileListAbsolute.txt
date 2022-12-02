@@ -1,0 +1,504 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.runtimeconfig.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ref\UnitTests.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CopyComplete
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\ref\UnitTests.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.genruntimeconfig.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\dotMemory.Unit.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.deps.json
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.runtimeconfig.json
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\dotMemory.Unit.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CopyComplete
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\refint\UnitTests.dll
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.genruntimeconfig.cache
+C:\Users\ISSD\Desktop\Individual Project 1\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\ref\UnitTests.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.deps.json
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.runtimeconfig.json
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ref\UnitTests.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\dotMemory.Unit.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfo.cs
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CopyComplete
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\ref\UnitTests.dll
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\lacho\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.genruntimeconfig.cache
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\CoverletSourceRootsMapping
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.exe
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\testhost.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.deps.json
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.runtimeconfig.json
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\dotMemory.Unit.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Logic Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Data Layer.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\bin\Debug\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.csproj.CopyComplete
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\refint\UnitTests.dll
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\UnitTests.genruntimeconfig.cache
+C:\Users\ISSD\Desktop\TheRacingStore\UnitTests\obj\Debug\net6.0-windows\ref\UnitTests.dll

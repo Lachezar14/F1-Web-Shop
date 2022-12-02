@@ -1,0 +1,24 @@
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\bin\Release\net6.0-windows\Models.deps.json
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\bin\Release\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\bin\Release\net6.0-windows\ref\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\bin\Release\net6.0-windows\Models.pdb
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\ref\Models.dll
+C:\Users\lacho\Desktop\Individual Project 1\TheRacingStore\Models\obj\Release\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Models\bin\Release\net6.0-windows\Models.deps.json
+C:\Users\ISSD\Desktop\TheRacingStore\Models\bin\Release\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Models\bin\Release\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\refint\Models.dll
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\Models.pdb
+C:\Users\ISSD\Desktop\TheRacingStore\Models\obj\Release\net6.0-windows\ref\Models.dll

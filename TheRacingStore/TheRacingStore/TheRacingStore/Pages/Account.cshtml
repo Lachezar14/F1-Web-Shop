@@ -1,0 +1,112 @@
+﻿@page
+@model TheRacingStore.Pages.AccountModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <title>
+      The Racing Store
+   </title>
+   <link rel="stylesheet" href="~/css/site.css">
+   <link href="https://fonts.googleapis.com/css2?
+   family=Poppins:wght@300;400;500;600; 700&display=swap"
+   rel="stylesheet">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-
+   awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ </head>
+  <body>
+    <div class="header2">
+   <div class="container">
+    <div class="navbar">
+        <div class="logo">
+                    <a href="Index"><img src="images/f1-store-logo.png" width="200"></a>
+        </div>
+        <nav>  
+            @if(Model.User != null)
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="Account">Account</a></li>
+              </ul>         
+            }
+            else
+            {
+              <ul>
+               <li><a href="Index">Home</a></li>
+               <li><a href="Products">Products</a></li>
+               <li><a href="AboutUs">About Us</a></li>
+               <li><a href="LogIn">Log In</a></li>
+             </ul>
+            }
+         </nav>
+    </div>
+   </div>
+    </div>
+    <h1 class="title">Hello @Model.User.FName @Model.User.LName</h1>
+    <div class="row">
+        <div class="col-75">
+            <div class="container2">
+                <form method="post">
+                    <div class="row">
+                        <div class="col-50">
+                            <label> First Name:</label> <span asp-validation-for="UserDTO.FName"></span>
+                            <input class="inpFl" asp-for="UserDTO.FName" value="@Model.User.FName"  id="fName">
+
+                            <label> Last Name:</label> <span asp-validation-for="UserDTO.LName"></span>
+                            <input class="inpFl" asp-for="UserDTO.LName" value="@Model.User.LName"  id="lName">
+
+                            <label> Email:</label> <span asp-validation-for="UserDTO.Email"></span>
+                            <input class="inpFl" asp-for="UserDTO.Email" value="@Model.User.Email"  id="email">
+
+                            <label> Phone Number:</label> <span asp-validation-for="UserDTO.Phone"></span>
+                            <input class="inpFl" asp-for="UserDTO.Phone" value="@Model.User.Phone"  id="phone">
+
+                            <label> Address:</label> <span asp-validation-for="UserDTO.Address"></span>
+                            <input class="inpFl" asp-for="UserDTO.Address" value="@Model.User.Address"  id="address">
+
+                            <label> City:</label> <span asp-validation-for="UserDTO.City"></span>
+                            <input class="inpFl" asp-for="UserDTO.City" value="@Model.User.City"  id="city">
+
+                            <label> Postcode:</label> <span asp-validation-for="UserDTO.Postcode"></span>
+                            <input class="inpFl" asp-for="UserDTO.Postcode" value="@Model.User.Postcode" id="postcode">
+
+                            <label> Username:</label> <span asp-validation-for="UserDTO.Username"></span>
+                            <input class="inpFl" asp-for="UserDTO.Username" value="@Model.User.Username" id="username">
+
+                            <label> Password:</label> <span asp-validation-for="UserDTO.Password"></span>
+                            <input class="inpFl" asp-for="UserDTO.Password" value="@Model.User.Password" id="password">
+
+                        </div>
+                    </div>
+                    <br>
+                    <br>
+                    <div class="btn3">
+                        <button class="button" type="submit" asp-page-handler="ChangeUser">Change Info</button>
+                        <button class="button" type="submit" asp-page-handler="Logout" >Log Out</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+   
+    <footer class="footer">
+        <div><h1 class="SM">Links to our social media accounts!</h1></div>
+        <nav class="socialMedia">
+            <ul>
+                <li><a href="https://www.facebook.com/lachko.mitov" class="fa fa-facebook"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://twitter.com/Luc68358959" class="fa fa-twitter"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.instagram.com/luchounited/" class="fa fa-instagram"></a></li>
+                <li><h1 class="betweenSM">|</h1></li>
+                <li><a href="https://www.linkedin.com/in/lachezar-mitov-922b49230/" class="fa fa-linkedin"></a></li>
+            </ul>
+        </nav>
+     </footer>
+    </body>
+    </html>

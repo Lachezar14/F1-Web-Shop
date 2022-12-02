@@ -1,0 +1,479 @@
+<Project>
+  <Name>The Racing Store</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Untitled</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>UserManager</Name>
+        <Access>Public</Access>
+        <Location left="2368" top="904" />
+        <Size width="279" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public UserManager(IUserDB userDB)</Member>
+        <Member type="Method">public User GetUser(int id)</Member>
+        <Member type="Method">public List&lt;User&gt; GetAllUsers()</Member>
+        <Member type="Method">public void AddAdmin(User user)</Member>
+        <Member type="Method">public void AddCustomer(User user)</Member>
+        <Member type="Method">public void UpdateUser(User user)</Member>
+        <Member type="Method">public void DeleteUser(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Poster</Name>
+        <Access>Public</Access>
+        <Location left="2543" top="1877" />
+        <Size width="470" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public Poster(int id, string desc, int stock, decimal price, string type, int length, int height)</Member>
+        <Member type="Constructor">public Poster(string desc, int stock, decimal price, string type, int length, int height)</Member>
+        <Member type="Constructor">public Poster()</Member>
+        <Member type="Property">public int Length { get; private set; }</Member>
+        <Member type="Property">public int Height { get; private set; }</Member>
+        <Member type="Method">public override void Discount()</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Clothing</Name>
+        <Access>Public</Access>
+        <Location left="2543" top="1635" />
+        <Size width="470" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public Clothing(int id, string desc, int stock, decimal price, string type, string size)</Member>
+        <Member type="Constructor">public Clothing(string desc, int stock, decimal price, string type, string size)</Member>
+        <Member type="Constructor">public Clothing()</Member>
+        <Member type="Property">public Size Size { get; private set; }</Member>
+        <Member type="Method">public override void Discount()</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>UserDB</Name>
+        <Access>Public</Access>
+        <Location left="1821" top="126" />
+        <Size width="301" height="196" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string conn</Member>
+        <Member type="Method">public User GetUser(int id)</Member>
+        <Member type="Method">public List&lt;User&gt; SelectAllUsers()</Member>
+        <Member type="Method">public void InsertAdmin(User user)</Member>
+        <Member type="Method">public void InsertCustomer(User user)</Member>
+        <Member type="Method">public void UpdateUser(User user)</Member>
+        <Member type="Method">public void DropUser(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>ProductDB</Name>
+        <Access>Public</Access>
+        <Location left="1499" top="1682" />
+        <Size width="369" height="213" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string conn</Member>
+        <Member type="Method">public Product GetProduct(int id)</Member>
+        <Member type="Method">public List&lt;Product&gt; SelectAllProducts()</Member>
+        <Member type="Method">public void InsertClothing(Product product)</Member>
+        <Member type="Method">public void InsertPoster(Product product)</Member>
+        <Member type="Method">public void ProductBought(int id)</Member>
+        <Member type="Method">public void UpdateProduct(Product product)</Member>
+        <Member type="Method">public void DropProduct(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>User</Name>
+        <Access>Public</Access>
+        <Location left="1559" top="465" />
+        <Size width="841" height="349" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public User(int id, string fName, string lName, string email, string phone, string address, string city, string postcode, string type, string username, string password)</Member>
+        <Member type="Constructor">public User(string fName, string lName, string email, string phone, string address, string city, string postcode, string type, string username, string password)</Member>
+        <Member type="Constructor">public User(UserDTO uRazor)</Member>
+        <Member type="Constructor">public User()</Member>
+        <Member type="Property">public int Id { get; set; }</Member>
+        <Member type="Property">public string FName { get; private set; }</Member>
+        <Member type="Property">public string LName { get; private set; }</Member>
+        <Member type="Property">public string Email { get; private set; }</Member>
+        <Member type="Property">public string Phone { get; private set; }</Member>
+        <Member type="Property">public string Address { get; private set; }</Member>
+        <Member type="Property">public string City { get; private set; }</Member>
+        <Member type="Property">public string Postcode { get; private set; }</Member>
+        <Member type="Property">public string Type { get; private set; }</Member>
+        <Member type="Property">public string Username { get; private set; }</Member>
+        <Member type="Property">public string Password { get; private set; }</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Product</Name>
+        <Access>Public</Access>
+        <Location left="2041" top="1620" />
+        <Size width="362" height="401" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public Product(int id, string desc, int stock, decimal price, string type)</Member>
+        <Member type="Constructor">public Product(string desc, int stock, decimal price, string type)</Member>
+        <Member type="Constructor">public Product()</Member>
+        <Member type="Property">public int Id { get; set; }</Member>
+        <Member type="Property">public string Desc { get; private set; }</Member>
+        <Member type="Property">public int Stock { get; private set; }</Member>
+        <Member type="Property">public decimal Price { get; protected set; }</Member>
+        <Member type="Property">public string Type { get; private set; }</Member>
+        <Member type="Method">public virtual void Discount()</Member>
+        <Member type="Method">public void DecreaseStock()</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>ProductManager</Name>
+        <Access>Public</Access>
+        <Location left="2041" top="1295" />
+        <Size width="313" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public ProductManager(IProductDB productDB)</Member>
+        <Member type="Method">public Product GetProduct(int id)</Member>
+        <Member type="Method">public List&lt;Product&gt; GetAllProducts()</Member>
+        <Member type="Method">public void AddClothing(Product product)</Member>
+        <Member type="Method">public void AddPoster(Product product)</Member>
+        <Member type="Method">public void ProductBought(int id)</Member>
+        <Member type="Method">public void UpdateProduct(Product product)</Member>
+        <Member type="Method">public void DeleteProduct(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>OrderManager</Name>
+        <Access>Public</Access>
+        <Location left="823" top="577" />
+        <Size width="260" height="179" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public OrderManager(IOrderDB orderDB)</Member>
+        <Member type="Method">public Order GetOrder(int userId, int productId)</Member>
+        <Member type="Method">public List&lt;Ordert&gt; GetAllOrders()</Member>
+        <Member type="Method">public void AddOrder(Order order)</Member>
+        <Member type="Method">public void OrderShipped(int id)</Member>
+        <Member type="Method">public void DeleteOrder(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Order</Name>
+        <Access>Public</Access>
+        <Location left="789" top="891" />
+        <Size width="681" height="305" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public Order(int id, Product product, User user, int shipped)</Member>
+        <Member type="Constructor">public Order(Product product, User user, int shipped)</Member>
+        <Member type="Constructor">public Order()</Member>
+        <Member type="Property">public int Id { get; set; }</Member>
+        <Member type="Property">public Product Product { get; }</Member>
+        <Member type="Property">public User User { get; }</Member>
+        <Member type="Property">public int Shipped { get; private set; }</Member>
+        <Member type="Method">public void Ship()</Member>
+        <Member type="Method">public override string ToString()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>OrderDB</Name>
+        <Access>Public</Access>
+        <Location left="253" top="891" />
+        <Size width="259" height="179" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">string conn</Member>
+        <Member type="Method">public List&lt;Order&gt; SelectAllOrders()</Member>
+        <Member type="Method">public Order GetOrder(int userId, int productId)</Member>
+        <Member type="Method">public void InsertOrder(Order order)</Member>
+        <Member type="Method">public void OrderShipped(int id)</Member>
+        <Member type="Method">public void DropOrder(int id)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IUserDB</Name>
+        <Access>Public</Access>
+        <Location left="2344" top="126" />
+        <Size width="294" height="179" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">User GetUser()</Member>
+        <Member type="Method">List&lt;User&gt; SelectAllUsers()</Member>
+        <Member type="Method">void InsertAdmin()</Member>
+        <Member type="Method">void InsertCustomer()</Member>
+        <Member type="Method">void UpdateUser()</Member>
+        <Member type="Method">void DropUser()</Member>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IUserManager</Name>
+        <Access>Public</Access>
+        <Location left="2756" top="904" />
+        <Size width="269" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">User GetUser()</Member>
+        <Member type="Method">List&lt;User&gt; GetAllUsers()</Member>
+        <Member type="Method">void AddAdmin()</Member>
+        <Member type="Method">void AddCustomer()</Member>
+        <Member type="Method">void UpdateUser()</Member>
+        <Member type="Method">void DeleteUser()</Member>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IProductDB</Name>
+        <Access>Public</Access>
+        <Location left="1513" top="1404" />
+        <Size width="350" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">Product GetProduct()</Member>
+        <Member type="Method">List&lt;Product&gt; SelectAllProducts()</Member>
+        <Member type="Method">void InsertClothing()</Member>
+        <Member type="Method">void InsertPoster()</Member>
+        <Member type="Method">void ProductBought()</Member>
+        <Member type="Method">void UpdateProduct()</Member>
+        <Member type="Method">void DropProduct()</Member>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IProductManager</Name>
+        <Access>Public</Access>
+        <Location left="1629" top="1058" />
+        <Size width="344" height="216" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">Product GetProduct()</Member>
+        <Member type="Method">List&lt;Product&gt; GetAllProducts()</Member>
+        <Member type="Method">void AddClothing()</Member>
+        <Member type="Method">void AddPoster()</Member>
+        <Member type="Method">void ProductBought()</Member>
+        <Member type="Method">void UpdateProduct()</Member>
+        <Member type="Method">void DeleteProduct()</Member>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IOrderDB</Name>
+        <Access>Public</Access>
+        <Location left="253" top="577" />
+        <Size width="239" height="192" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">List&lt;Order&gt; SelectAllOrders()</Member>
+        <Member type="Method">Order GetOrder()</Member>
+        <Member type="Method">void InsertOrder()</Member>
+        <Member type="Method">void OrderShipped()</Member>
+        <Member type="Method">void DropOrder()</Member>
+      </Entity>
+      <Entity type="Interface">
+        <Name>IOrderManager</Name>
+        <Access>Public</Access>
+        <Location left="823" top="288" />
+        <Size width="260" height="192" />
+        <Collapsed>False</Collapsed>
+        <Member type="Method">Order GetOrder()</Member>
+        <Member type="Method">List&lt;Ordert&gt; GetAllOrders()</Member>
+        <Member type="Method">void AddOrder()</Member>
+        <Member type="Method">void OrderShipped()</Member>
+        <Member type="Method">void DeleteOrder()</Member>
+      </Entity>
+      <Entity type="Class">
+        <Name>UserDTO</Name>
+        <Access>Public</Access>
+        <Location left="1414" top="126" />
+        <Size width="226" height="281" />
+        <Collapsed>False</Collapsed>
+        <Member type="Property">public int Id { get; set; }</Member>
+        <Member type="Property">public string FName { get; set; }</Member>
+        <Member type="Property">public string LName { get; set; }</Member>
+        <Member type="Property">public string Email { get; set; }</Member>
+        <Member type="Property">public string Phone { get; set; }</Member>
+        <Member type="Property">public string Address { get; set; }</Member>
+        <Member type="Property">public string City { get; set; }</Member>
+        <Member type="Property">public string Postcode { get; set; }</Member>
+        <Member type="Property">public string Type { get; set; }</Member>
+        <Member type="Property">public string Username { get; set; }</Member>
+        <Member type="Property">public string Password { get; set; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Generalization" first="2" second="6">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Generalization" first="1" second="6">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>2518</X>
+          <Y>1973</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>2428</X>
+          <Y>1973</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="7" second="6">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>products</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="8" second="9">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>952</X>
+          <Y>823</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>orders</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="0" second="5">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>2343</X>
+          <Y>969</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1872</X>
+          <Y>934</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>users</EndRole>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="9" second="6">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>2011</X>
+          <Y>1921</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>product</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="9" second="5">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1239</X>
+          <Y>864</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1534</X>
+          <Y>702</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>user</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Dependency" first="10" second="9">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>552</X>
+          <Y>1002</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="4" second="6">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1893</X>
+          <Y>1787</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Dependency" first="3" second="5">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="3" second="11">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="0" second="12">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="4" second="13">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Association" first="0" second="11">
+        <Label>
+        </Label>
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>_userDB</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="7" second="13">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>_productDB</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Realization" first="7" second="14">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>2205</X>
+          <Y>1151</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Realization" first="10" second="15">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+      </Relationship>
+      <Relationship type="Realization" first="8" second="16">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>950</X>
+          <Y>552</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>950</X>
+          <Y>505</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="8" second="15">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>795</X>
+          <Y>675</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>567</X>
+          <Y>675</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>_orderDB</EndRole>
+        <EndMultiplicity>1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Dependency" first="5" second="17">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1743</X>
+          <Y>440</Y>
+        </BendPoint>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>
